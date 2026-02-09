@@ -1,0 +1,7 @@
+sample,group,fastq
+H3K27ac_rep1,treated,/path/to/H3K27ac_rep1.fastq.gz
+H3K27ac_rep2,treated,/path/to/H3K27ac_rep2.fastq.gz
+H3K27ac_rep3,treated,/path/to/H3K27ac_rep3.fastq.gz
+H3K27ac_rep1_ctrl,control,/path/to/H3K27ac_rep1_ctrl.fastq.gz
+H3K27ac_rep2_ctrl,control,/path/to/H3K27ac_rep2_ctrl.fastq.gz
+H3K27ac_rep3_ctrl,control,/path/to/H3K27ac_rep3_ctrl.fastq.gz
